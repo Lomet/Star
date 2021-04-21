@@ -1,4 +1,6 @@
-    class Program
+using System.IO;
+using System;   
+class Program
     {
         public const char _zero = ' ';
         public const char _one = '*';       
